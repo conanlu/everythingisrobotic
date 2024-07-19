@@ -1,4 +1,4 @@
 syllables~=1.0.9
 python-dotenv~=1.0.1
 discord.py==2.4.0
-discordrequirements.txt==2.4.0
+discord==2.4.0
